@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1517887535063.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "884339064",
+    "id" : "A1D7A434",
+    "lastKnownWriteTime" : 1517891749,
+    "last_content_update" : 1517891749298,
+    "path" : "C:/Users/W/Google Drive/Data-based/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "191,0",
+        "scrollLine" : "191"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
