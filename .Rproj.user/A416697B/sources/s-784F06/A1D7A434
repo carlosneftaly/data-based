@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "884339064",
+    "hash" : "3272055225",
     "id" : "A1D7A434",
-    "lastKnownWriteTime" : 1517891749,
-    "last_content_update" : 1517891749298,
+    "lastKnownWriteTime" : 1517892659,
+    "last_content_update" : 1517892659611,
     "path" : "C:/Users/W/Google Drive/Data-based/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "191,0",
-        "scrollLine" : "191"
+        "cursorPosition" : "210,7",
+        "scrollLine" : "193"
     },
     "relative_order" : 2,
     "source_on_save" : false,
