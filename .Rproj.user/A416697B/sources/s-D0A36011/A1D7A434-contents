@@ -47,7 +47,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   [params.navigation]
     brand = "Data-based"
     # Optional logo as brand stored in img/
-    #logo = "Recuadro-01.png"
+    logo = "Botón 2-01.png"
     services = "Servicios"
     #portfolio = "Portfolio"
     about = "Acerca de nosotros"
