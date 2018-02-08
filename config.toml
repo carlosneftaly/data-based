@@ -75,8 +75,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   [params.hero]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
-    title = "¿Buscando apoyo en tus experimentos y análisis de datos?"
-    subtitle = "Estás en el lugar correcto"
+    title = ""
+    subtitle = ""
     buttonText = "¡Cuéntanos más!"
 
 
